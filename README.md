@@ -1,4 +1,7 @@
-By Luke MahÃ© and Marcin Wichary.
+By Luke MahÃÂ© and Marcin Wichary.
+
+Code license
+[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 Demo
 http://html5slides.googlecode.com/svn/trunk/template/index.html
@@ -25,7 +28,7 @@ Enter full-screen mode (F11 or Shift-Command-F) before presenting.
 
 You should be able to press Ctrl+R/F5 at any time to refresh without losing your place in the presentation.
 
-If an iframe steals your focus and you canât advance any more, please click outside the slide on the background to give the focus back to the presentation.
+If an iframe steals your focus and you canÃÂ¢ÃÂÃÂt advance any more, please click outside the slide on the background to give the focus back to the presentation.
 
 Caveats
-should work on modern Chrome, Firefox, Safari, Operaâ¦ and generally touch devices.
+should work on modern Chrome, Firefox, Safari, OperaÃÂ¢ÃÂÃÂ¦ and generally touch devices.
