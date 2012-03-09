@@ -6,6 +6,7 @@
            
            Dominic Mazzoni (browser compatibility)
            Charles Chen (ChromeVox support)
+           John Arthorne (Eclipse template)
 
   URL: http://code.google.com/p/html5slides/
 */
@@ -102,14 +103,12 @@ body {
   background-color: white;  
 } 
 
-.slides.template-io2011 > article:not(.nobackground):not(.biglogo) {
-  background: url(images/colorbar.png) 0 600px repeat-x,
-              url(images/googleio-logo.png) 640px 625px no-repeat;
-
-  background-size: 100%, 225px;  
-
+.slides.template-eclipse > article:not(.nobackground):not(.biglogo) {
+  background: url(images/eclipse-logo-small.png) 710px 625px no-repeat;  
+  
   background-color: white;  
-}
+} 
+
 .slides.layout-widescreen > article:not(.nobackground):not(.biglogo),
 .slides.layout-faux-widescreen > article:not(.nobackground):not(.biglogo) {
   background-position-x: 0, 840px;
@@ -158,8 +157,8 @@ body {
   background: white url(images/google-logo.png) 50% 50% no-repeat;
 }
 
-.slides.template-io2011 article.biglogo {
-  background: white url(images/googleio-logo.png) 50% 50% no-repeat;
+.slides.template-eclipse article.biglogo {
+  background: white url(images/eclipse-logo.png) 50% 50% no-repeat;
 
   background-size: 600px;
 }
